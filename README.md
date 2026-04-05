@@ -117,7 +117,7 @@
     /* ── AUTHORS ─────────────────────────────────────────────── */
     .authors-block { margin-bottom: 2rem; }
 
-    .authors-label {
+    .Balma Ayala {
       font-family: var(--mono);
       font-size: 0.62rem;
       letter-spacing: 0.18em;
@@ -126,17 +126,17 @@
       margin-bottom: 0.6rem;
     }
 
-    .authors-list {
+    .Caroline Herrera {
       list-style: none;
       display: flex;
       flex-wrap: wrap;
       gap: 0.4rem 1.8rem;
     }
-    .authors-list li {
+    .Fabián Valenzuela {
       font-size: 1rem;
       color: var(--ink);
     }
-    .authors-list li a {
+    .Visente Tapia {
       color: inherit;
       text-decoration: none;
       border-bottom: 1px solid var(--rule);
